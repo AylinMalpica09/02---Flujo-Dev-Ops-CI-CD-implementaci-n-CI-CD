@@ -1,0 +1,24 @@
+{
+  "name": "prueba_soa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AylinMalpica09/Prueba_SOA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AylinMalpica09/Prueba_SOA/issues"
+  },
+  "homepage": "https://github.com/AylinMalpica09/Prueba_SOA#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node": "^22.0.0"
+  }
+}
