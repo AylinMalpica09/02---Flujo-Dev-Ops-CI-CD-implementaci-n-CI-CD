@@ -6,7 +6,7 @@ app.use(express.json())
 app.get('/prueba',(req, res)=>{
     res.status(200).send({
         status:"success",
-        message:"Hello World with docker XD 2"
+        message:"Hello World with docker XD"
     })
 })
 
